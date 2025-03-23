@@ -107,7 +107,7 @@ public class LabyrintheGenerator extends JPanel {
     }
 
     /*
-      GENERER UN LABYRINTHE ALEAToIRE EN UTILISANT L'ALGORITHMA PRIM.
+      GENERER UN LABYRINTHE ALEATOIRE EN UTILISANT L'ALGORITHME PRIM.
       Fonctionnement :
       - Initialise une grille pleine de murs.
       - Commence a la position (1,1) et marque cette cellule comme un passage.
