@@ -6,6 +6,13 @@ Le code est dans la branche master
 ## Description
 Ce projet a été réalisé dans le cadre du cours de Programmation et Algorithmique avancé. Il consiste à générer et résoudre un labyrinthe en utilisant les algorithmes BFS et DFS. Le labyrinthe est représenté sous forme d'une matrice 2D, et une interface graphique a été ajoutée pour visualiser les résultats.
 
+## Technologies utilisées :
+  - Langage : Java (version 8 ou supérieure).
+  - Interface graphique : Swing (javax.swing) pour créer une fenêtre et des composants graphiques.
+  - Gestion des événements : AWT (java.awt) pour gérer les interactions utilisateur (clics, touches).
+  - Entrées/Sorties : java.io pour lire des fichiers (chargement de labyrinthe).
+  - Structures de données : java.util (List, Queue, Stack, Map) pour gérer les données du labyrinthe et les algorithmes.
+
 
 ## Fonctionnalités
 - Génération aléatoire d'un labyrinthe avec l'algorithme de Prim.
