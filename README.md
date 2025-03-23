@@ -15,7 +15,7 @@ Ce projet a été réalisé dans le cadre du cours de Programmation et Algorithm
 - Fonctionnalités bonus : chargement depuis un fichier, résolution manuelle.
 
 ## Comment exécuter
-1. Clonez ce dépôt : `git clone[ https://github.com/DreamerArise/Labyrinthe_Project.git`
+1. Clonez ce dépôt : `git clone https://github.com/DreamerArise/Labyrinthe_Project.git`
 2. Compilez et exécutez le fichier `LabyrintheGenerator.java` avec Java (version 8 ou supérieure).
 3. Suivez les instructions dans l'interface graphique pour générer, résoudre, ou jouer manuellement.
 
